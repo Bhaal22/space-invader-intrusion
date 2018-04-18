@@ -1,0 +1,6 @@
+E:\dev\perso\git\space-invader\space-invader\obj\Debug\space-invader.csproj.CoreCompileInputs.cache
+E:\dev\perso\git\space-invader\space-invader\bin\Debug\space-invader.exe.config
+E:\dev\perso\git\space-invader\space-invader\bin\Debug\space-invader.exe
+E:\dev\perso\git\space-invader\space-invader\bin\Debug\space-invader.pdb
+E:\dev\perso\git\space-invader\space-invader\obj\Debug\space-invader.exe
+E:\dev\perso\git\space-invader\space-invader\obj\Debug\space-invader.pdb

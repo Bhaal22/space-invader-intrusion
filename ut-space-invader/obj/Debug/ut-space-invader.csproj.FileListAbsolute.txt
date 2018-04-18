@@ -1,0 +1,17 @@
+E:\dev\perso\git\space-invader\ut-space-invader\obj\Debug\ut-space-invader.csprojResolveAssemblyReference.cache
+E:\dev\perso\git\space-invader\ut-space-invader\obj\Debug\ut-space-invader.csproj.CoreCompileInputs.cache
+E:\dev\perso\git\space-invader\ut-space-invader\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\dev\perso\git\space-invader\ut-space-invader\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\dev\perso\git\space-invader\ut-space-invader\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\dev\perso\git\space-invader\ut-space-invader\bin\Debug\ut-space-invader.dll
+E:\dev\perso\git\space-invader\ut-space-invader\bin\Debug\ut-space-invader.pdb
+E:\dev\perso\git\space-invader\ut-space-invader\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\dev\perso\git\space-invader\ut-space-invader\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\dev\perso\git\space-invader\ut-space-invader\bin\Debug\space-invader.exe
+E:\dev\perso\git\space-invader\ut-space-invader\bin\Debug\space-invader.pdb
+E:\dev\perso\git\space-invader\ut-space-invader\bin\Debug\space-invader.exe.config
+E:\dev\perso\git\space-invader\ut-space-invader\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\dev\perso\git\space-invader\ut-space-invader\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\dev\perso\git\space-invader\ut-space-invader\obj\Debug\ut-space-invader.csproj.CopyComplete
+E:\dev\perso\git\space-invader\ut-space-invader\obj\Debug\ut-space-invader.dll
+E:\dev\perso\git\space-invader\ut-space-invader\obj\Debug\ut-space-invader.pdb
